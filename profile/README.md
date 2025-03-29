@@ -56,16 +56,8 @@
 
 ## 📦 GitHub 上传流程（Fork + Pull Request 简明指南）
 
-1. **Fork 仓库**  
-   - 访问目标仓库（如 [AI-Papers](https://github.com/GUET-AI-Hub/AI-Papers)），点击右上角 **Fork** 按钮。
-
-2. **在 Fork 后的仓库中上传文件**  
-   - 可通过网页端点击 **Add file → Upload files** 上传所需文件（如 PDF、数据集、代码等）。
-   - 或克隆仓库到本地，添加文件后提交并推送。
-
-3. **提交 Pull Request (PR)**  
-   - 回到 Fork 仓库主页，点击 **Pull requests** → **New pull request**，选择将您 Fork 中的更改提交给原仓库。
-   - 填写标题和说明，提交 PR 后等待管理员审核合并。
+📘 如您希望使用 GitHub 进行标准上传方式（Fork + PR），请参考我们的详细操作说明：  
+🔗 [点击查看 Fork + PR 上传指南](./help%20doc.md)
 
 ---
 
