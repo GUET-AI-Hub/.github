@@ -1,4 +1,4 @@
- issue_template: true
+issue_template: true
 name: 📄 提交论文资源
 description: 提交一篇 AI 相关论文
 title: "[论文] Paper_<姓名>_<关键词>"
