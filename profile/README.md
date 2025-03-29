@@ -1,53 +1,62 @@
 <div align="center">
   <img src="https://www.guet.edu.cn/images/logo.png" width="100" />
   <h1>GUET-AI-Hub</h1>
-  <p>桂林电子科技大学 · 计算机与信息安全学院<br>人工智能成果开源共享平台</p>
+  <p>🌐 桂林电子科技大学 · 人工智能开源成果平台</p>
+  <p>Empowering AI Collaboration Across GUET</p>
+  <br>
+  <a href="https://github.com/GUET-AI-Hub/AI-Tools-Systems"><img src="https://img.shields.io/badge/AI%20Tools-blue?style=flat-square&logo=github"></a>
+  <a href="https://github.com/GUET-AI-Hub/AI-Papers"><img src="https://img.shields.io/badge/AI%20Papers-green?style=flat-square&logo=read-the-docs"></a>
+  <a href="https://github.com/GUET-AI-Hub/AI-Datasets"><img src="https://img.shields.io/badge/AI%20Datasets-orange?style=flat-square&logo=datadog"></a>
 </div>
 
 ---
 
 ## 🧠 关于我们 | About
 
-**GUET-AI-Hub** 是桂林电子科技大学计算机与信息安全学院发起的人工智能开源共享平台，旨在集中展示校内师生在人工智能领域的研究成果，推动校内外的协作与影响力建设。
+**GUET-AI-Hub** 是桂电计算机与信息安全学院发起的 AI 开源成果平台，旨在汇聚、管理与传播校内教师和学生在人工智能方向的**项目工具、论文研究与数据资源**。
 
-我们支持教师、研究团队、学生上传和维护以下类型的资源：
+平台目标包括：
 
-- 🛠️ AI工具与系统（AI Tools & Systems）
-- 📄 AI论文与技术报告（AI Papers & Reports）
-- 🗂️ AI数据集与语料资源（AI Datasets & Corpora）
-
----
-
-## 📚 项目分类 | Repositories
-
-| 类别 | 简介 | 链接 |
-|------|------|------|
-| 🛠️ AI 工具与系统 | 提供可复用的AI相关算法、平台与应用工具代码 | [AI-Tools-Systems](https://github.com/GUET-AI-Hub/AI-Tools-Systems) |
-| 📄 AI 论文成果 | 展示学院教师和学生发表的重要研究成果 | [AI-Papers](https://github.com/GUET-AI-Hub/AI-Papers) |
-| 🗂️ AI 数据集 | 收录自建或收集的AI训练/测试用数据 | [AI-Datasets](https://github.com/GUET-AI-Hub/AI-Datasets) |
+- ✅ 促进校内外 AI 成果共享
+- ✅ 展示桂电在 AI 领域的科研影响力
+- ✅ 构建协同式资源开放生态
 
 ---
 
-## 🚀 加入我们 | How to Contribute
+## 📂 分类导航 | Repository Navigation
 
-我们欢迎校内外教师、科研团队和学生共同维护本平台。你可以：
-
-- 提交 pull request 上传资源
-- 在 Issues 区域提出建议或问题
-- 联系平台管理员获取维护权限
-
-📌 每个资源请遵循对应仓库内的《上传指南》
+| 📁 仓库 | 内容简介 | 链接 |
+|--------|----------|------|
+| 🛠️ **AI-Tools-Systems** | 开源工具、平台、代码框架 | [查看工具仓库](https://github.com/GUET-AI-Hub/AI-Tools-Systems) |
+| 📄 **AI-Papers** | 论文、技术报告与引用信息 | [查看论文仓库](https://github.com/GUET-AI-Hub/AI-Papers) |
+| 🗃️ **AI-Datasets** | 语料、图像、音频等AI数据集 | [查看数据集仓库](https://github.com/GUET-AI-Hub/AI-Datasets) |
 
 ---
 
-## 📬 联系方式 | Contact
+## 🛠️ 如何上传 | How to Contribute
 
-- 管理员：张敬伟 院长 / 樱空释
-- 邮箱示例：`aihub@guet.edu.cn`（请替换为真实邮箱）
-- 组织主页：[github.com/GUET-AI-Hub](https://github.com/GUET-AI-Hub)
+我们欢迎教师、研究团队和学生上传成果，统一采用**分类仓库**管理，请遵循以下流程：
+
+1. 前往对应子仓库
+2. 阅读仓库内 `README.md` 或 `CONTRIBUTING.md`
+3. 上传内容需包含：
+   - ✅ 主文件（代码、PDF、数据）
+   - ✅ 使用说明（README）
+   - ✅ 授权信息（License）
+
+📌 所有上传内容默认使用 MIT 或 CC-BY 协议，特殊协议请在资源中注明。
+
+---
+
+## 💬 联系我们 | Contact
+
+平台管理员：
+
+- 👤 王学敏（计算机与信息安全学院）
+- 📮 邮箱：<wangxuemin@guet.edu.cn>
 
 ---
 
 <div align="center">
-  <sub>🧠 Powered by 桂电计算机与信息安全学院 · Inspiring AI Collaboration in GUET</sub>
+  <sub>📢 桂林电子科技大学 AI Hub · Powered by GUET-CS · GitHub 组织主页</sub>
 </div>
