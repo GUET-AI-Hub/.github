@@ -1,4 +1,4 @@
-issue_template: true
+---
 name: 📄 提交论文资源
 description: 提交一篇 AI 相关论文
 title: "[论文] Paper_<姓名>_<关键词>"
@@ -35,16 +35,8 @@ body:
   - type: input
     id: journal
     attributes:
-      label: 🏷️ 发表期刊 / 会议
-      placeholder: TPAMI / AAAI / arXiv 等
-    validations:
-      required: true
-
-  - type: textarea
-    id: summary
-    attributes:
-      label: 📘 简要介绍
-      placeholder: 请输入论文研究内容、贡献、方法等
+      label: 🏷️ 期刊/会议名称
+      placeholder: IEEE TPAMI / AAAI / arXiv
     validations:
       required: true
 
@@ -55,7 +47,15 @@ body:
       placeholder: https://example.com/paper.pdf
 
   - type: textarea
+    id: summary
+    attributes:
+      label: 📘 简要介绍
+      placeholder: 简要介绍研究内容、方法、贡献等
+    validations:
+      required: true
+
+  - type: textarea
     id: bibtex
     attributes:
-      label: 📖 引用格式（BibTeX，可选）
+      label: 📖 BibTeX 引用（可选）
       placeholder: @article{...}
