@@ -47,19 +47,14 @@
    - Fork 您希望贡献的仓库到您的账户  
    - 在 Fork 后的仓库中添加或修改文件（例如上传论文 PDF、代码、数据集文件等）  
    - 提交 Pull Request，管理员审核后合并到主仓库
-
+   - 详细操作说明请参考：[点击查看 Fork + PR 上传指南](./help%20doc.md)
 3. **管理员代为上传**  
    - 如您不熟悉 Git 操作，可直接将文件打包后发送到平台管理员邮箱，由管理员协助上传。  
    - 联系方式：**wangxuemin@guet.edu.cn**
 
 ---
 
-## 📦 GitHub 上传流程（Fork + Pull Request 简明指南）
 
-📘 如您希望使用 GitHub 进行标准上传方式（Fork + PR），请参考我们的详细操作说明：  
-🔗 [点击查看 Fork + PR 上传指南](./help%20doc.md)
-
----
 
 ## 💬 联系我们 | Contact
 
