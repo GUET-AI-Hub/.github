@@ -35,8 +35,8 @@ body:
   - type: input
     id: journal
     attributes:
-      label: 🏷️ 期刊/会议名称
-      placeholder: IEEE TPAMI / AAAI / arXiv
+      label: 🏷️ 发表期刊 / 会议
+      placeholder: IEEE TPAMI / AAAI / ArXiv
     validations:
       required: true
 
