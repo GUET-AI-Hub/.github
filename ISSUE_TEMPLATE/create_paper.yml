@@ -1,0 +1,56 @@
+name: 📄 提交论文资源
+description: 提交一篇 AI 相关论文
+title: "[论文] Paper_<姓名>_<关键词>"
+labels: [paper-submission]
+body:
+  - type: input
+    id: paperTitle
+    attributes:
+      label: 📌 论文标题
+      placeholder: 请输入论文标题
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: 👤 作者姓名
+      placeholder: 张三
+    validations:
+      required: true
+
+  - type: input
+    id: publishYear
+    attributes:
+      label: 📅 发表年份
+      placeholder: 2024
+    validations:
+      required: true
+
+  - type: input
+    id: journal
+    attributes:
+      label: 🏷️ 发表期刊 / 会议
+      placeholder: TPAMI / AAAI / arXiv 等
+    validations:
+      required: true
+
+  - type: input
+    id: pdfLink
+    attributes:
+      label: 📎 PDF 链接（可选）
+      placeholder: https://example.com/paper.pdf
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: 📘 简要介绍
+      placeholder: 请输入论文研究内容、贡献、方法等
+    validations:
+      required: true
+
+  - type: textarea
+    id: bibtex
+    attributes:
+      label: 📖 引用格式（BibTeX，可选）
+      placeholder: @article{...}
