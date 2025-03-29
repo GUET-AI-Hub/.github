@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.guet.edu.cn/images/logo.png" width="100" />
+  <img src="guet_ai_final_compressed.png" width="100" />
   <h1>GUET-AI-Hub</h1>
   <p>🌐 桂林电子科技大学 · 人工智能开源成果平台</p>
   <p>Empowering AI Collaboration Across GUET</p>
